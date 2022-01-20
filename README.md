@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Steps Demo
 =================================
+
+以多个步骤的形式显示整个流程
 
 ```
 npm install
