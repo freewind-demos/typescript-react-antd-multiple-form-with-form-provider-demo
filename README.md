@@ -1,7 +1,7 @@
-TypeScript React AntDesign Form in Steps Demo
+TypeScript React AntDesign Multiple Form with Form Provider Demo
 =================================
 
-以多个步骤来填写整个form，可以向前向后并保持数据不丢
+多个Form共享一个form对象的做法不能正常运行
 
 ```
 npm install

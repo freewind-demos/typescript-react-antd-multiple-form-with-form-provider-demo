@@ -3,9 +3,9 @@ import 'antd/dist/antd.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import {FormInSteps} from './FormInSteps';
+import {MultipleForms} from './MultipleForms';
 
 ReactDOM.render(
-  <FormInSteps/>,
+  <MultipleForms/>,
   document.body
 )
