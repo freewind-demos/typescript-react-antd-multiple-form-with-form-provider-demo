@@ -1,7 +1,7 @@
-TypeScript React AntDesign Steps Demo
+TypeScript React AntDesign Form in Steps Demo
 =================================
 
-以多个步骤的形式显示整个流程
+以多个步骤来填写整个form，可以向前向后并保持数据不丢
 
 ```
 npm install
